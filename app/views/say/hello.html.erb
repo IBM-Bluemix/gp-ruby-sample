@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+	<HEAD>
+		<TITLE>Ruby on Rails Starter Application</TITLE>
+		<link href='/stylesheets/style.css' rel='stylesheet'>
+	</HEAD>
+ 
+	<BODY>
+		<% $languages.each do |locale, translations| %>
+			<a href="#header"><%= link_to locale, :controller => 'application', :action => 'set_locale', :id => locale %></a>
+			<% translations.each do |translation| %>
+				<a href="#header"><%= link_to translation, :controller => 'application', :action => 'set_locale', :id => translation %></a>
+			<% end %>
+		<% end %>
+		<h2 id ="header"><%=t :temp , message: "everyone"%></h2>
+	</BODY>
+</HTML>
