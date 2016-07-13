@@ -26,16 +26,16 @@ You will be able to see the locales you selected and the key in the hello_world.
 
 -----------------
 #Community
----------
+
 * View or file GitHub [Issues](https://github.com/IBM-Bluemix/gp-ruby-sample/issues)
 * Connect with the open source community on [developerWorks Open](https://developer.ibm.com/open/ibm-bluemix-globalization-pipeline-service/ruby-sdk/)
 
 #Contributing
-------------
+
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 #License
--------
+
 Apache 2.0. See [LICENSE.txt](LICENSE.txt).
 
 > Licensed under the Apache License, Version 2.0 (the "License");
