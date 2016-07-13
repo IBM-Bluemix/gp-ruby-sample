@@ -2,14 +2,14 @@
 -------------------------------------------------------------------------------
 
 ## Getting started
----------------
+
 To get started, you should familiarize yourself with the service itself. A
 good place to begin is by reading the [Quick Start Guide](https://github.com/IBM-Bluemix/gp-common#quick-start-guide) and the official [Getting Started with IBM Globalization ](https://www.ng.bluemix.net/docs/services/GlobalizationPipeline/index.html) documentation.
 
 The documentation explains how to find the service on Bluemix, create a new service instance, create a new bundle, and access the translated messages.
 
 ## Installation
---------------
+
 - Create a bound service instance of Globalization Pipeline. It will have a name like `gp-**`
     - Go to Globalization Pipeline Dashboard and select  `Create new bundle `
     - Create a bundle that is named `RubySDKTestBundle` and import the `hello_world.properties` file
@@ -18,11 +18,13 @@ The documentation explains how to find the service on Bluemix, create a new serv
 - `cf push` to publish your appplication
 
 ## Demo:
-----------
+
 [Click here to see sample application](http://rubysdktest.mybluemix.net/)
 
 You will be able to see the locales you selected and the key in the hello_world.properties. You may click the different locales to produce the translations.
 
+
+-----------------
 #Community
 ---------
 * View or file GitHub [Issues](https://github.com/IBM-Bluemix/gp-ruby-sample/issues)
