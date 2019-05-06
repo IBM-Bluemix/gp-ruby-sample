@@ -3,8 +3,8 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: RubySDKTest
-  host: rubysdktest
+  name: rubysdkdemo
+  host: rubysdkdemo
   disk_quota: 1024M
   services:
-  - Globalization Pipeline DEV-rb
+  - gp-demo-do-not-delete
