@@ -7,6 +7,7 @@ class ApplicationController < ActionController::Base
 	$locale = :en
 	
 	def startUp
+	  require 'diff-lcs'
 	  require 'gp-ruby-client'
 
 	  i18n_backend = GP::Ruby::Client.new("RubySDKTestBundle");
