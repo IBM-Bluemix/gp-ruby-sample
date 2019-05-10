@@ -36,7 +36,4 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
-gem 'gp-ruby-client', '0.1.0'
-#vendorize,:path => 'vendor/gems/gp-ruby-client-0.1.0'
-
-gem 'diff-lcs'
+gem 'gp-ruby-client'
