@@ -4,7 +4,7 @@
 ## Getting started
 
 To get started, you should familiarize yourself with the service itself. A
-good place to begin is by reading the [Quick Start Guide](https://github.com/IBM-Bluemix/gp-common#quick-start-guide) and the official [Getting Started with IBM Globalization ](https://www.ng.bluemix.net/docs/services/GlobalizationPipeline/index.html) documentation.
+good place to begin is by reading the [Quick Start Guide](https://github.com/IBM-Bluemix/gp-common#quick-start-guide) and the official [Getting Started with IBM Globalization ](https://cloud.ibm.com/docs/services/GlobalizationPipeline) documentation.
 
 The documentation explains how to find the service on Bluemix, create a new service instance, create a new bundle, and access the translated messages.
 
@@ -27,7 +27,7 @@ You will be able to see the locales you selected and the key in the hello_world.
 -----------------
 #Community
 
-* View or file GitHub [Issues](https://github.com/IBM-Bluemix/gp-ruby-sample/issues)
+* View or file GitHub [Issues](https://github.com/IBM-Cloud/gp-ruby-sample/issues)
 
 #Contributing
 
