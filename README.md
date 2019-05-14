@@ -19,7 +19,7 @@ The documentation explains how to find the service on Bluemix, create a new serv
 
 ## Demo:
 
-[Click here to see sample application](http://rubysdktest.mybluemix.net/)
+[Click here to see sample application](https://rubysdkdemo.mybluemix.net/)
 
 You will be able to see the locales you selected and the key in the hello_world.properties. You may click the different locales to produce the translations.
 
@@ -28,7 +28,6 @@ You will be able to see the locales you selected and the key in the hello_world.
 #Community
 
 * View or file GitHub [Issues](https://github.com/IBM-Bluemix/gp-ruby-sample/issues)
-* Connect with the open source community on [developerWorks Open](https://developer.ibm.com/open/ibm-bluemix-globalization-pipeline-service/ruby-sdk/)
 
 #Contributing
 

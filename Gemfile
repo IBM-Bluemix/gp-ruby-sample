@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-# ruby "2.1.5"
+ruby '~>2.3.0'
 # local - ruby "2.2.3"
-gem 'rails', '3.2.13'
+gem 'rails', '3.2.22'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -36,5 +36,4 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
-
 gem 'gp-ruby-client'
